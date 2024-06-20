@@ -21,7 +21,7 @@ h1{
 }
 .container{
     margin-top:3rem;
-    height:60vh;
+/*     height:60vh; */
     width:40vw;
    /* max-width: 600px;*/
     padding-top: 2rem;
@@ -39,6 +39,7 @@ h1{
     border: 1px solid black;
     height: 2rem;
     width:90%;
+    margin-left:1 rem;
     padding: 0.2rem 1rem;
     box-shadow: 2px 2px 5px 2px grey;
     border-radius: 10px;
