@@ -79,10 +79,10 @@ button{
 .incorrect{
     background-color: rgb(223, 23, 33);
 }
-@media (min-width:926) {
+@media(max-width:680px){
     .container{
-        width:30vw;
-        height:44vh ;
-    }
-    
+        width: 100%;
+        margin: 75px 2px;
+        padding-bottom: 3px;
+    }   
 }
